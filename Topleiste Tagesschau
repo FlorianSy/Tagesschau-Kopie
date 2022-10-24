@@ -15,7 +15,8 @@
                 font-family: Thesis, helvetica, arial, sans-serif;
                 font-size: 100%;
                 float: left;
-            margin: 0px;
+                margin: 0px;
+                background-color: #253044;
         }
         #container{
             width: 100%;
