@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Kopie Tagesschau</title>
+        <style type="text/css">
+            nav{
+                background-color:#253044;
+                margin-bottom:-1.5%;
+                
+            }
+            body{
+                font-family: Thesis, helvetica, arial, sans-serif;
+                font-size: 100%;
+                float: left;
+            margin: 0px;
+        }
+        #container{
+            width: 100%;
+        }
+
+        #topleiste{
+            float:left;
+            background-color: #253044;
+        }
+        #topleiste ul{
+            background-color: #253044;
+
+        }
+        #topleiste li {
+            list-style: none;
+            float: left;
+            padding-left: 7px;
+            background-color:#253044;
+            
+            
+        }
+        a:link{
+            
+            color:white;
+            text-decoration: none;
+            padding: 10px 10px 10px 10px;
+            
+        }
+        a:visited{
+            
+            color:white;
+            text-decoration: none;
+            padding: 10px 10px 10px 10px;
+            
+        }
+        a:hover{
+            background-color: #5b6473;
+            color:white;
+            text-decoration: none;
+        }
+        .toplinks{
+            
+        }
+        
+        
+        
+    </style>
+</head>
+<body>
+    <nav><a href="https://tagesschau.de"><img src="https://upload.wikimedia.org/wikinews/de/e/e4/Tagesschau-logo.jpg" width="70px" alt=""></a></nav>
+    <div id="cointainer">
+        <div id="topleiste">
+            <ul id="topleistenliste">
+                <li class="toplinks"> <a href="https://www.tagesschau.de/">Home</a></li>
+                <li class="toplinks"> <a href="https://www.tagesschau.de/thema/ukraine/">Ukraine</a></li>
+                <li class="toplinks"><a href="https://www.tagesschau.de/thema/iran/">Iran</a></li>
+                <li class="toplinks"> <a href="https://www.tagesschau.de/inland/">Inland</a></li>
+                <li class="toplinks"><a href="https://www.tagesschau.de/ausland/">Ausland</a></li>
+                <li class="toplinks"><a href="https://www.tagesschau.de/wirtschaft/">Wirtschaft</a></li>
+                <li class="toplinks"><a href="https://www.tagesschau.de/wissen/">Wissen</a></li>
+                <li class="toplinks"><a href="https://www.tagesschau.de/faktenfinder/">Faktenfinder</a></li>
+                <li class="toplinks"><a href="https://www.tagesschau.de/investigativ/">Investigativ</a></li>
+                <li class="toplinks"><a href="https://www.tagesschau.de/wetter/">Wetter</a></li>
+                <li class="toplinks"><a href="https://www.tagesschau.de/multimedia/">Videos&Audios</a></li>
+
+
+            </ul>
+            </div>
+
+    </div>
+    
+</body>
+</html>
